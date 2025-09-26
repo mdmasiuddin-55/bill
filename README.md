@@ -19,6 +19,8 @@ Add database endpoint in src/main/java/com/cloud247/Demo.java
 
 Package :
 mvn package
+mvn test
 
 Deployment:
 Tomcat
+
